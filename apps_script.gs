@@ -10,7 +10,7 @@
  *    A: 신청일시 | B: 이름 | C: 연락처 | D: 성별 | E: 연령대 | F: 주요고민 | G: 상세메시지 | H: UTM경로
  */
 
-const SHEET_ID = '160gkJp3RfLOXM7mKk1CX1WQPHk4Se6fzL4oM28MNOlM';        // <-- 구글 스프레드시트 ID 입력
+const SHEET_ID = 'AKfycbxlzF-YzyPwwgeViWBQISW521RMKWEDewWs6Aa1x_l1FyI782NjiYHdKr6njFFuia4r';        // <-- 구글 스프레드시트 ID 입력
 const NOTIFY_EMAIL = 'zmb5857@naver.com', 'mcjack85@gmail.com'; // <-- 알림을 받을 본인 이메일 주소 입력
 const SHEET_NAME = 'DNA검사 신청 명단';                    // <-- 스프레드시트 내 시트 이름 (기본값: 시트1)
 
